@@ -1,1 +1,1 @@
-# Candy_Dispenser_Python
+# Candy_Dispenser_Python implementation with Stack DataStructure
